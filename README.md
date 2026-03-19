@@ -37,7 +37,7 @@ Experiments with wallet authentication, persistent sessions and web3 onboarding 
 
 ##Connect with me
 - LinkedIn: https://www.linkedin.com/in/simbarashe-hanga/
-- Smaple: [https://landing-page-xi-six-98.vercel.app/]
+- Sample: [https://landing-page-xi-six-98.vercel.app/]
 - Email: simba.hanga@gmail.com
 
 <!--
